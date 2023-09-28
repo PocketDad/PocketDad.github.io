@@ -1,7 +1,5 @@
 # PocketDad
 
-![ci-badge](https://github.com/PocketDad/pocketdad/workflows/ci-PocketDad/badge.svg)
-
 ## GitHub Repository
 [Repository Link](https://github.com/PocketDad/pocketdad)
 
