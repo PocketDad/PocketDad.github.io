@@ -18,6 +18,9 @@
 
 
 ## Usage
+Currently our app consists of mockup pages with minimum utility.
+
+(please upload screenshots of mockups here)
 
 
 ## Installation
