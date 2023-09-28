@@ -1,6 +1,6 @@
 # PocketDad
 
-![ci-badge](https://github.com/Manoa-Inventory-POST/manoa-inventory-post/workflows/ci-manoa-inventory-post/badge.svg)
+![ci-badge](https://github.com/PocketDad/pocketdad/workflows/ci-PocketDad/badge.svg)
 
 ## GitHub Repository
 [Repository Link](https://github.com/PocketDad/pocketdad)
@@ -25,8 +25,8 @@
 ## Installation
 
 
-## Develipment status
-### [Phase 1 Project Board](https://github.com/orgs/PocketDad/projects/1)
+## Development status
+* [Phase 1 Project Board](https://github.com/orgs/PocketDad/projects/1)
 
 ## About us
 
