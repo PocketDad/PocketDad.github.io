@@ -1,4 +1,5 @@
 title: PocketDad
+description: A personal digital assistant that will remind the user of important tasks and provide instructions or recommendations for maintenance services.
 theme: jekyll-theme-cayman
 
 gems:
