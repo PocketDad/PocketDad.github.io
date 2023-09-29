@@ -1,7 +1,5 @@
 # PocketDad
-
-## GitHub Repository
-[Repository Link](https://github.com/PocketDad/pocketdad)
+[GitHub Repository Link](https://github.com/PocketDad/pocketdad)
 
 ## Table of Contents
 * [Motivation](#motivation)
