@@ -23,6 +23,9 @@ PocketDad will also be able to offer general advice directed toward the specific
 ## Usage
 Currently our app consists of mockup pages with minimum utility.
 
+
+<img src="doc/check-in.png">
+
 (please upload screenshots of mockups here)
 
 
