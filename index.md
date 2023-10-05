@@ -30,6 +30,8 @@ Currently our app consists of mockup pages with minimum utility.
 
 <img src="doc/tasks-mockup.png" style="width: 100px">
 
+<img src="doc/completed-tasks-mockup.png" style="width: 100px">
+
 (please upload screenshots of mockups here)
 
 
