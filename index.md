@@ -52,6 +52,6 @@ flutter run
 PocketDad is being developed by a team of three Computer Science students from the University of Hawaiʻi at Mānoa.
 
 Team members:
-* Yong-Sung Masuda
-* Sydney Kim
-* Justin Jandoc
+* [Yong-Sung Masuda](https://github.com/yongsungm)
+* [Sydney Kim](https://github.com/kimsyd)
+* [Justin Jandoc](https://github.com/justinjandoc)
