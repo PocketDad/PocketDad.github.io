@@ -24,7 +24,9 @@ PocketDad will also be able to offer general advice directed toward the specific
 Currently our app consists of mockup pages with minimum utility.
 
 
-<img src="doc/checkin-mockup.png">
+<img src="doc/checkin-mockup.png" style="width: 100px">
+
+<img src="doc/chooseavatar.png" style="width: 100px">
 
 (please upload screenshots of mockups here)
 
