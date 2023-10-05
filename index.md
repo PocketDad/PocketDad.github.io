@@ -23,17 +23,17 @@ PocketDad will also be able to offer general advice directed toward the specific
 ## Usage
 Currently our app consists of mockup pages with minimum utility.
 
-<img src="doc/chooseavatar.png" style="width: 500px">
+<img src="doc/chooseavatar.png" style="width: 250px">
 
-<img src="doc/checkin-mockup.png" style="width: 500px">
+<img src="doc/checkin-mockup.png" style="width: 250px">
 
-<img src="doc/add-task-mockup.png" style="width: 500px">
+<img src="doc/add-task-mockup.png" style="width: 250px">
 
-<img src="doc/edit-task-mockup.png" style="width: 500px">
+<img src="doc/edit-task-mockup.png" style="width: 250px">
 
-<img src="doc/tasks-mockup.png" style="width: 500px">
+<img src="doc/tasks-mockup.png" style="width: 250px">
 
-<img src="doc/completed-tasks-mockup.png" style="width: 500px">
+<img src="doc/completed-tasks-mockup.png" style="width: 250px">
 
 (please upload screenshots of mockups here)
 
