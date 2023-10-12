@@ -35,11 +35,13 @@ Phase 1: Currently our app consists of mockup pages.
 
 <img src="doc/completed-tasks-mockup.png" style="width: 250px">
 
-Phase 2: Updating our app to include data from a hard-coded database.
+Phase 2: Updating our app to include data from a hard-coded database and other mockup pages.
 
 <img src="doc/itemspagewithdata.png" style="width: 250px">
 
 <img src="doc/onboarding.png" style="width: 250px">
+
+<img src="doc/individual-task.png" style="width: 250px">
 
 ## Installation
 Download the source code found in the [PocketDad Repository](https://github.com/PocketDad/pocketdad).
