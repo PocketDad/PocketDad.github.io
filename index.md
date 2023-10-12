@@ -21,7 +21,7 @@ PocketDad will also be able to offer general advice directed toward the specific
 
 
 ## Usage
-Currently our app consists of mockup pages.
+Phase 1: Currently our app consists of mockup pages.
 
 <img src="doc/chooseavatar.png" style="width: 250px">
 
@@ -35,6 +35,9 @@ Currently our app consists of mockup pages.
 
 <img src="doc/completed-tasks-mockup.png" style="width: 250px">
 
+Phase 2: Updating our app to include data from a hard-coded database.
+
+<img src="doc/itemspagewithdata.png" style="width: 250px">
 
 ## Installation
 Download the source code found in the [PocketDad Repository](https://github.com/PocketDad/pocketdad).
