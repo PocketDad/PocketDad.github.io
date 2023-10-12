@@ -51,8 +51,7 @@ flutter run
 ```
 
 ## Development status
-* [Phase 1 Project Board](https://github.com/orgs/PocketDad/projects/1)
-* [Phase 2 Project Board](https://github.com/orgs/PocketDad/projects/2)
+* [PocketDad Projectboard](https://github.com/orgs/PocketDad/projects/5)
 
 ## About us
 PocketDad is being developed by a team of three Computer Science students from the University of Hawaiʻi at Mānoa.
