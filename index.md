@@ -39,6 +39,8 @@ Phase 2: Updating our app to include data from a hard-coded database.
 
 <img src="doc/itemspagewithdata.png" style="width: 250px">
 
+<img src="doc/onboarding.png" style="width: 250px">
+
 ## Installation
 Download the source code found in the [PocketDad Repository](https://github.com/PocketDad/pocketdad).
 In a terminal, cd into the pocketdad directory and run:
