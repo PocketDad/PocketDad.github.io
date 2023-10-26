@@ -45,6 +45,16 @@ Phase 2: Updating our app to include data from a hard-coded database and other m
 
 Phase 3: Implementing Riverpod methods for databases and continuing to add to UI
 
+<img src="doc/sign_up.png" style="width: 250px">
+
+<img src="doc/check_in.png" style="width: 250px">
+
+<img src="doc/all_tasks.png" style="width: 250px">
+
+<img src="doc/add_task.png" style="width: 250px">
+
+<img src="doc/choose_appearance.png" style="width: 250px">
+
 ## Installation
 Download the source code found in the [PocketDad Repository](https://github.com/PocketDad/pocketdad).
 In a terminal, cd into the pocketdad directory and run:
