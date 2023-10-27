@@ -36,8 +36,6 @@ Phase 1: Currently our app consists of mockup pages.
 
 | Completed Tasks | <img src="doc/completed-tasks-mockup.png" style="width: 100px"> | This page will allow the user to return to completed tasks for reference and tracking purposes. |
 
-| --- |
-
 Phase 2: Updating our app to include data from a hard-coded database and other mockup pages. These pages utilize User, Task, and Item databases that have been hard-coded with sample data.
 
 | Items Page with Data | <img src="doc/itemspagewithdata.png" style="width: 100px"> | Items page implemented with sample data. |
@@ -59,8 +57,6 @@ Phase 3: Implementing Riverpod methods for databases and continuing to add to UI
 | Add Task | <img src="doc/add_task.png" style="width: 100px"> | Adds a new task to the existing database of tasks. |
 
 | Choose Avatar | <img src="doc/choose_appearance.png" style="width: 100px"> | Sets or changes the Dad avatar. |
-
-| --- |
 
 ## Installation
 Download the source code found in the [PocketDad Repository](https://github.com/PocketDad/pocketdad).
