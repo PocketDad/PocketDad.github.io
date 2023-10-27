@@ -22,7 +22,7 @@ PocketDad will also be able to offer general advice directed toward the specific
 
 ## Usage
 
-Phase 1: Currently our app consists of mockup pages.
+### Phase 1: Currently our app consists of mockup pages.
 
 | Choose Avatar | <img src="doc/chooseavatar.png" style="width: 100px"> | This page will display different Dad avatars for the user to choose from. |
 
@@ -36,7 +36,7 @@ Phase 1: Currently our app consists of mockup pages.
 
 | Completed Tasks | <img src="doc/completed-tasks-mockup.png" style="width: 100px"> | This page will allow the user to return to completed tasks for reference and tracking purposes. |
 
-Phase 2: Updating our app to include data from a hard-coded database and other mockup pages. These pages utilize User, Task, and Item databases that have been hard-coded with sample data.
+### Phase 2: Updating our app to include data from a hard-coded database and other mockup pages. These pages utilize User, Task, and Item databases that have been hard-coded with sample data.
 
 | Items Page with Data | <img src="doc/itemspagewithdata.png" style="width: 100px"> | Items page implemented with sample data. |
 
@@ -44,7 +44,7 @@ Phase 2: Updating our app to include data from a hard-coded database and other m
 
 | Individual Tasks Page | <img src="doc/individual-task.png" style="width: 100px"> | Information for each task can be viewed independently. |
 
-Phase 3: Implementing Riverpod methods for databases and continuing to add to UI.
+### Phase 3: Implementing Riverpod methods for databases and continuing to add to UI.
 
 | Sign-up Page | <img src="doc/onboarding.png" style="width: 100px"> | The sign-up page adds a new user to the existing database of users. |
 
