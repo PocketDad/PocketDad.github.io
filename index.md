@@ -44,8 +44,6 @@ Phase 2: Updating our app to include data from a hard-coded database and other m
 
 | Individual Tasks Page | <img src="doc/individual-task.png" style="width: 100px"> | Information for each task can be viewed independently. |
 
-| --- |
-
 Phase 3: Implementing Riverpod methods for databases and continuing to add to UI.
 
 | Sign-up Page | <img src="doc/sign_up.png" style="width: 100px"> | The sign-up page adds a new user to the existing database of users. |
