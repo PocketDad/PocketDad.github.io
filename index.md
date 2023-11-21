@@ -58,7 +58,16 @@ PocketDad will also be able to offer general advice directed toward the specific
 
 ### Phase 4/5: Implementing Firebase and Freezed data models.
 
+| Sign-up Page | <img src="doc/darkmode_register.png" style="width: 100px"> | The updated sign-up page adds a new user to the existing database.
+
+| Sign-in Page | <img src="doc/darkmode_signin.png" style="width: 100px"> | The updated sign-in page allows existing user to access their unique information.
+
 | Add Task | <img src="doc/updated_add_task.png" style="width: 100px"> | Added "Item" and "Users" fields.
+
+| Check-in (dark mode) | <img src="doc/darkmode_checkin.png" style="width: 100px"> | Updated Check-in page displaying upcoming tasks (dark mode).
+
+| Check-in (light mode) | <img src="doc/lightmode_checkin.png" style="width: 100px"> | Updated Check-in page displaying upcoming tasks (light mode).
+
 
 ## Installation
 Download the source code found in the [PocketDad Repository](https://github.com/PocketDad/pocketdad).
