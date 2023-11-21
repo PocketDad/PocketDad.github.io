@@ -56,6 +56,8 @@ PocketDad will also be able to offer general advice directed toward the specific
 
 | Choose Avatar | <img src="doc/choose_appearance.png" style="width: 100px"> | Sets or changes the Dad avatar. |
 
+### Phase 4/5: Implementing Firebase and Freezed data models
+
 ## Installation
 Download the source code found in the [PocketDad Repository](https://github.com/PocketDad/pocketdad).
 In a terminal, cd into the pocketdad directory and run:
