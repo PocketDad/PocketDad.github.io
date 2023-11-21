@@ -56,7 +56,9 @@ PocketDad will also be able to offer general advice directed toward the specific
 
 | Choose Avatar | <img src="doc/choose_appearance.png" style="width: 100px"> | Sets or changes the Dad avatar. |
 
-### Phase 4/5: Implementing Firebase and Freezed data models
+### Phase 4/5: Implementing Firebase and Freezed data models.
+
+| Add Task | <img src="doc/updated_add_task.png" style="width: 100px"> | Added "Item" and "Users" fields.
 
 ## Installation
 Download the source code found in the [PocketDad Repository](https://github.com/PocketDad/pocketdad).
