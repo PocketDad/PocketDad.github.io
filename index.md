@@ -7,6 +7,7 @@
 * [Usage](#usage)
 * [Installation](#installation)
 * [Development status](#development-status)
+* Usability testing (#usability-testing)
 * [About us](#about-us)
 
 ## Motivation
@@ -83,6 +84,8 @@ flutter run
 
 ## Development status
 * [PocketDad Projectboard](https://github.com/orgs/PocketDad/projects/5)
+
+## [Usability testing](https://pocketdad.github.io/evaluation)
 
 ## About us
 PocketDad is being developed by a team of three Computer Science students from the University of Hawaiʻi at Mānoa.
