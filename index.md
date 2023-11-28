@@ -7,7 +7,7 @@
 * [Usage](#usage)
 * [Installation](#installation)
 * [Development status](#development-status)
-* Usability testing (#usability-testing)
+* [Usability testing](#usability-testing)
 * [About us](#about-us)
 
 ## Motivation

@@ -1,6 +1,6 @@
 title: PocketDad
 description: A digital personal assistant who reminds, advises, and jokes.
-theme: jekyll-theme-architect
+remote_theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
