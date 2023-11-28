@@ -73,7 +73,7 @@ PocketDad will also be able to offer general advice directed toward the specific
 
 | Chat (light mode) | <img src="doc/lightmode_chat.png" style="width: 100px"> | Mockup of chat page (light mode) - user will be able to ask the Dad AI questions. |
 
-| Settings | <img src="doc/dakrmode_settings.png" style="width: 100px"> | Change the settings (theme mode).
+| Settings | <img src="doc/darkmode_settings.png" style="width: 100px"> | Change the settings (theme mode).
 
 ## Installation
 Download the source code found in the [PocketDad Repository](https://github.com/PocketDad/pocketdad).
