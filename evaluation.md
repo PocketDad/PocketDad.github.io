@@ -9,7 +9,10 @@ permalink: /evaluation
 ## User Goals
 * User should be able to create account and complete the onboarding process.
 * User should be able to intuitively navigate the app's pages.
-* User should be able to add and edit tasks, as well as add and edit items.
+* User should be able to add and edit tasks.
+* User should be able to add and edit items.
+* User should be able to assign another user to a task.
+* User should be able to assign another user to an item.
 * User should be able to identify and utilize important features and abilities of the app.
 * User should be able to interact with other users through the friend system.
 
