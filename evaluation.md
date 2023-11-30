@@ -7,10 +7,10 @@ permalink: /evaluation
 # Evaluation
 
 ## Table of Contents
-* [User Goals](user-goals)
-* [Scenarios](scenarios)
-* [User Types](user-types)
-* [Recruitment](recruitment)
+* [User Goals](#user-goals)
+* [Scenarios](#scenarios)
+* [User Types](#user-types)
+* [Recruitment](#recruitment)
 
 ## User Goals
 * User should be able to create account and complete the onboarding process.
