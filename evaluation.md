@@ -14,6 +14,7 @@ permalink: /evaluation
 * User should be able to interact with other users through the friend system.
   * User should be able to assign another user to a task.
   * User should be able to assign another user to an item.
+* User should be able to chat with the AI dad.
 * User should be able to identify and utilize important features and abilities of the app.
 
 ## Scenarios
@@ -22,7 +23,7 @@ In order to test the intuitiveness of our app, we would like for users to natura
 * <b>Add Task</b> - The user should be able to navigate to the list tasks screen, fill out the add task form, and see their new task added to the list tasks screen.
 * <b>Edit Task</b> - The user should be able to navigate to an individual task’s screen, fill out the edit task form, and see their changes.
 * <b>Send Chat</b> - The user should be able to navigate to the chat screen and interact with the AI dad.
-* <b>Change Display Settings</b> - The user should be able to navigate to the settings page and change the settings.
+* <b>Change Display Settings</b> - The user should be able to navigate to the settings page and change the application's theme.
 * <b>Add a Friend</b> - The user should be able to navigate to the discover users page and add a user as a friend.
 * <b>Add Item</b> - The user should be able to navigate to the items page and add an item.
 * <b>Edit Item</b> - The user should be able to navigate to the items page and edit an item.
