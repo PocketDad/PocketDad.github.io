@@ -14,7 +14,9 @@ permalink: /evaluation
 
 ## User Goals
 * Users can effectively plan for maintenance of their items.
-* Users feel that sharing tasks with their friends and family helps minimize the workload.
+* Users feel that the ability to share task lists with their friends and family helps with workload distribution.
+* Users feel a sense of comfort and companionship from knowing they have a resource to help them handle unfamiliar tasks.
+
 
 ## Scenarios
 In order to test the intuitiveness of our app, we would like for users to naturally find the requested functionalities. 
