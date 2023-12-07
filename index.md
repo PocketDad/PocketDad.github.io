@@ -75,6 +75,9 @@ PocketDad will also be able to offer general advice directed toward the specific
 
 | Settings | <img src="doc/darkmode_settings.png" style="width: 100px"> | Change the settings (theme mode).
 
+### Phase 5/5: Usability Testing
+For a better view, please view this slideshow: [PocketDad Demo](https://docs.google.com/presentation/d/1ikDahWIkutANa-RMbdwFKOhb0F6RVPAidVvOYuwuW70/edit?usp=sharing)
+
 ## Installation
 Download the source code found in the [PocketDad Repository](https://github.com/PocketDad/pocketdad).
 In a terminal, cd into the pocketdad directory and run:
@@ -85,7 +88,7 @@ flutter run
 ## Development status
 * [PocketDad Projectboard](https://github.com/orgs/PocketDad/projects/5)
 
-## [Usability testing](https://pocketdad.github.io/evaluation)
+## [Usability Testing](https://pocketdad.github.io/evaluation)
 
 ## About us
 PocketDad is being developed by a team of three Computer Science students from the University of Hawaiʻi at Mānoa.
