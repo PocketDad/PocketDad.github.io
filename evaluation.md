@@ -14,7 +14,7 @@ permalink: /evaluation
 
 ## User Goals
 * Users can effectively plan for maintenance of their items.
-* Users feels that sharing tasks with their friends and family helps minimize the workload.
+* Users feel that sharing tasks with their friends and family helps minimize the workload.
 
 ## Scenarios
 In order to test the intuitiveness of our app, we would like for users to naturally find the requested functionalities. 
@@ -36,7 +36,9 @@ In order to test the intuitiveness of our app, we would like for users to natura
   * _Success:_ The user edited some tasks to include their sister, or they edited the house item to include their sister.
 
 ## User Types
-* <b>Standard User</b> - All users will have the ability to interact with tasks, items, other users, and the AI chatbot.
+* <b>Dorming college students and others living away from family</b> - Young adults who may need maintenance reminders, a way to organize their tasks and chores, or fatherly advice.
+* <b>Students and others living with family</b> - Young adults and children who want a way to share chores and tasks with their family.
+* <b>Dads</b> - Dads who want to track maintenance tasks and share them with their kids.
 
 ## Recruitment
 * Users will be recruited on their way to mutual club activities on campus.
