@@ -44,3 +44,5 @@ In order to test the intuitiveness of our app, we would like for users to natura
 ## Recruitment
 * Users will be recruited on their way to mutual club activities on campus.
 * Advertise on UH Discord with a possible giveaway incentive.
+
+## <a href="https://docs.google.com/document/d/1OwUJgprK0gFpOvLO9GfJR92uCRMAMAH3DloWl7W3Syo/edit?usp=sharing">Full Usability Report</a>
