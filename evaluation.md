@@ -36,9 +36,8 @@ In order to test the intuitiveness of our app, we would like for users to natura
   * _Success:_ The user edited some tasks to include their sister, or they edited the house item to include their sister.
 
 ## User Types
-* <b>Dorming college students and others living away from family</b> - Young adults who may need maintenance reminders, a way to organize their tasks and chores, or fatherly advice.
-* <b>Students and others living with family</b> - Young adults and children who want a way to share chores and tasks with their family.
-* <b>Dads</b> - Dads who want to track maintenance tasks and share them with their kids.
+* <b>Away-from-home student</b> - An undergraduate or graduate college student away from home. They are living separately from their parents and self-manage their time and resources.
+* <b>At-home student</b> - An undergraduate or graduate college student at home. They are living with their parents and manage their time and resources with the family. May also include high school or elementary school students.
 
 ## Recruitment
 * Users will be recruited on their way to mutual club activities on campus.
