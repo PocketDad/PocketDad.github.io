@@ -72,7 +72,7 @@ In order to test the intuitiveness of our app, we would like for users to natura
   * **_User Type:_** Away-from-home student
   * **_Device Used:_** Team member’s laptop
   * **_Description:_** Participant is a current college student living off campus. Testing was conducted at their apartment. 
-  * **_Scenarios
+  * **_Scenarios_**
     * **_1:_** Participant was able to create a task. They wanted to see where they could add, edit, or delete items.
     * **_2:_** Participant was able to add their friend to a task. They noted that making tasks repeatable would be nice for chores like dishes and cleaning.
 * Participant E
