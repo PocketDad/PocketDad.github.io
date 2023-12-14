@@ -47,41 +47,41 @@ In order to test the intuitiveness of our app, we would like for users to natura
 
 ## Data
 * Participant A
-  * User Type: At-home student
-  * Device Used: Team member’s laptop
-  * Description: Participant is an elementary school student. Consent was provided by their parent who oversaw the testing. Testing was conducted at the participant’s home.
-  * Scenarios
-    * A: Participant was able to create a task. When asked about the time entry field, they noted they preferred a clock for visuals.
-    * B: Participant was able to add their friend to a task. Their parent noted that adding a friend to tasks would be useful for their projects.
+  * **_User Type:_** At-home student
+  * **_Device Used:_** Team member’s laptop
+  * **_Description:_** Participant is an elementary school student. Consent was provided by their parent who oversaw the testing. Testing was conducted at the participant’s home.
+  * **_Scenarios_**
+    * **_1:_** Participant was able to create a task. When asked about the time entry field, they noted they preferred a clock for visuals.
+    * **_2:_** Participant was able to add their friend to a task. Their parent noted that adding a friend to tasks would be useful for their projects.
 
 * Participant B
-  * User Type: At-home student
-  * Device Used: Team member’s laptop
-  * Description: Participant is a current college student. Testing was conducted on campus.
-  * Scenarios
-    * A: Participant was able to create a task. They mentioned that sliding on a task would be a nice way to access edit and delete functionality.
-    * B: Participant was able to add their friend to a task. They asked how would another user know if they were added to a task.
+  * **_User Type:_** At-home student
+  * **_Device Used:_** Team member’s laptop
+  * **_Description:_** Participant is a current college student. Testing was conducted on campus.
+  * **_Scenarios_**
+    * **_1:_** Participant was able to create a task. They mentioned that sliding on a task would be a nice way to access edit and delete functionality.
+    * **_2:_** Participant was able to add their friend to a task. They asked how would another user know if they were added to a task.
 * Participant C
-  * User Type: Away-from-home student
-  * Device Used: Team member’s laptop
-  * Description: Participant is a current college student living on campus. Testing was conducted at a cafe.
-  * Scenarios
-    * A: Participant was able to create a task. They wanted to see more dad jokes.
-    * B: Participant was able to add their friend to a task. They asked if we could link their tasks so that reported maintenance could be sent to their property managers.
+  * **_User Type:_** Away-from-home student
+  * **_Device Used:_** Team member’s laptop
+  * **_Description:_** Participant is a current college student living on campus. Testing was conducted at a cafe.
+  * **_Scenarios_**
+    * **_1:_**: Participant was able to create a task. They wanted to see more dad jokes.
+    * **_2:_** Participant was able to add their friend to a task. They asked if we could link their tasks so that reported maintenance could be sent to their property managers.
 * Participant D
-  * User Type: Away-from-home student
-  * Device Used: Team member’s laptop
-  * Description: Participant is a current college student living off campus. Testing was conducted at their apartment. 
-  * Scenarios
-    * A: Participant was able to create a task. They wanted to see where they could add, edit, or delete items.
-    * B: Participant was able to add their friend to a task. They noted that making tasks repeatable would be nice for chores like dishes and cleaning.
+  * **_User Type:_** Away-from-home student
+  * **_Device Used:_** Team member’s laptop
+  * **_Description:_** Participant is a current college student living off campus. Testing was conducted at their apartment. 
+  * **_Scenarios
+    * **_1:_** Participant was able to create a task. They wanted to see where they could add, edit, or delete items.
+    * **_2:_** Participant was able to add their friend to a task. They noted that making tasks repeatable would be nice for chores like dishes and cleaning.
 * Participant E
-  * User Type: Dad/Parent
-  * Device Used: Team member’s laptop
-  * Description: Participant is a parent who lives with their family and a couple other extended family members. Testing was conducted at their home.
-  * Scenarios
-    * A: Participant was able to create a task. The first task they created had some errors and they were enable to edit or delete that task.
-    * B: Participant was able to add their friend to a task. They mentioned that a users tab would be nice in order to see who is assigned to which tasks.
+  * **_User Type:_** Dad/Parent
+  * **_Device Used:_** Team member’s laptop
+  * **_Description:_** Participant is a parent who lives with their family and a couple other extended family members. Testing was conducted at their home.
+  * **_Scenarios_**
+    * **_1:_** Participant was able to create a task. The first task they created had some errors and they were enable to edit or delete that task.
+    * **_2:_** Participant was able to add their friend to a task. They mentioned that a users tab would be nice in order to see who is assigned to which tasks.
 
 ## Results
 * Add, edit, delete, and view items.
