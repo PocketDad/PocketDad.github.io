@@ -85,6 +85,10 @@ In order to test the intuitiveness of our app, we would like for users to natura
 
 ## Results
 * Add, edit, delete, and view items.
+  * [Issue](https://github.com/orgs/PocketDad/projects/5/views/1?pane=issue&itemId=46245688)
 * Browse users and their tasks.
+  * [Issue](https://github.com/orgs/PocketDad/projects/5/views/1?pane=issue&itemId=43266149)
 * Edit and delete tasks. (maybe add previously mentioned slider functionality)
+  * [Issue](https://github.com/orgs/PocketDad/projects/5/views/1?pane=issue&itemId=45059353) 
 * In app notifications.
+  * [Issue](https://github.com/orgs/PocketDad/projects/5/views/1?pane=issue&itemId=47532097)
